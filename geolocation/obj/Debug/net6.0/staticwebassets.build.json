@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+9F0LkZjqI3oquvL+r3W/58pOqDCi77vneMKx0ZOvyM=",
+  "Source": "geolocation",
+  "BasePath": "_content/geolocation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
